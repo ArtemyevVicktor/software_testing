@@ -1,0 +1,99 @@
+/**
+*author:Артемьев Виктор
+* date:7.11.2016
+*
+*
+* 
+*
+* 
+*
+*/
+/*обводка всех элементов*/
+/** { 
+*border:1px solid gray;
+}
+*/
+body {
+    margin: 0;
+	font: 0.92em/1.4 Arial, sans-serif;
+	min-width: 780px;
+	background: #fff;
+	color: #000;
+}
+/* Content */
+#content {
+	margin-left: 60px;
+	padding: 0 20px 20px;
+}
+
+#content.summary {
+	margin-right: 50px;
+}
+
+.banner {
+margin: 120px auto;
+position: relative;
+float: rigth;
+text-align: rigth;
+  }
+.site_header {
+/*шапка сайта */
+  width: 100%;   
+  height: 80px; 
+  background-color: #ffffff; 
+  margin-bottom: 10px;  
+  border-bottom: 1px solid #000000; 
+}
+.menu {
+
+}
+.my_photo {
+/*обводка всех элементов*/
+float:left; /*обтекание слева*/
+margin: 7px 7px 0px 0; /*отступ*/
+border: 0px solid black;
+}
+.header1 {
+ 
+}
+.subheader1 {
+
+}
+
+.logo {
+	float: left;
+	margin: 0 16px 0 10px;
+}
+
+
+.cats {
+  background: url(images/cats.jpeg);
+  background-repeat: repeat;
+  padding: 0;
+  margin: 0;
+  margin-left: 0px;
+  margin-top: 0px;
+  width: 100%;   
+  height: 1000px; 
+  background-color: #ffffff; 
+
+}
+
+/* Footer */
+footer {
+  padding: 0 15px 10px;
+  border-top: 2px solid #ccc;
+  font-size: 0.9em;
+	clear: both;
+	display: block;
+	background: #eee;
+	background: -moz-linear-gradient(top, #eee 0%, #fff 100%);
+	background: -webkit-linear-gradient(top, #eee 0%, #fff 100%);
+	background: -o-linear-gradient(top, #eee 0%, #fff 100%);
+	background: -ms-linear-gradient(top, #eee 0%, #fff 100%);
+	background: linear-gradient(to bottom, #eee 0%, #fff 100%);
+}
+
+footer a, footer a:visited { color: #666; }
+footer a:hover { color: #BD2026; }
+
