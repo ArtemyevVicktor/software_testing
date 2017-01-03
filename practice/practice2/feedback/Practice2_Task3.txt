@@ -1,0 +1,10 @@
+Task 3: Медные трубы = 10p. (optional)
+Goal: Статический разбор кода.
+-----------------------------------------
+
+1.Открыть сайт github.com.
+2.В строку поиска ввести "selenium".
+3.В результатах поиска найти "SeleniumHQ/selenium" и перейти.
+4.Кликнуть по элементу Issues(Вопросы).
+5.Кликнуть по тикету номер #3124 с текстом (IEDriverServer.exe error: "Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.").
+6.Проверить наличие ссылки "http://localhost:40139/session/2f536599-92e4-49ad-aeee-284602e98973/screenshot"
